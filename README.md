@@ -12,7 +12,7 @@ I'm not affiliated with fresources in any way. This is just a simple extension I
 
 ## Installation
 
-- [Download and install for firefox](./fresources-1.1.1.xpi)
+- [Download and install for firefox](https://github.com/dvishal485/fresources-extension/releases/download/v1.1.1/fresources-1.1.1.xpi)
 - Use fresources as usual
 
 ---
